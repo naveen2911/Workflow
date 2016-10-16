@@ -1,0 +1,8 @@
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe.config
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.pdb
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\WF45GettingStartedTutorial.dll
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\WF45GettingStartedTutorial.pdb
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csprojResolveAssemblyReference.cache
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.exe
+K:\Learnings\Workflow\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.pdb

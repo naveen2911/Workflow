@@ -1,0 +1,4 @@
+obj\Debug\Prompt.g.xaml
+obj\Debug\SequentialNumberGuessWorkflow.g.xaml
+obj\Debug\WF45GettingStartedTutorial_Prompt_BeforeInitializeComponentHelper.txt
+obj\Debug\WF45GettingStartedTutorial_SequentialNumberGuessWorkflow_BeforeInitializeComponentHelper.txt
